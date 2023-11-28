@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sensor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sensor_jar</output-path>
+    <root id="archive" name="MOM_Josafa.jar">
+      <element id="module-output" name="MOM_Josafa" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../apache-activemq-5.16.4/activemq-all-5.16.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
